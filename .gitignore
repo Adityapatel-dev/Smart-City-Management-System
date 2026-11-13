@@ -1,0 +1,11 @@
+# Executable files
+*.exe
+*.o
+*.out
+
+# IDE settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log

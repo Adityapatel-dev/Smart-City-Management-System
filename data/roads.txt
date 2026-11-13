@@ -1,0 +1,5 @@
+Central Station|City Hospital|5
+Central Station|Police Station|3
+Airport|City Hospital|12
+Airport|City Mall|8
+City Mall|Police Station|4

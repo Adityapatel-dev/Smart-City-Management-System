@@ -1,0 +1,4 @@
+City General Hospital|Hospital|City Hospital
+Central Police Headquarters|Police Station|Police Station
+Airport Fire Station|Fire Station|Airport
+City Mall Fire Station|Fire Station|City Mall
